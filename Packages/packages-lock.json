@@ -15,6 +15,13 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "com.svermeulen.extenject": {
+      "version": "https://github.com/Mathijs-Bakker/Extenject.git?path=UnityProject/Assets/Plugins/Zenject/Source",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a417e7b7bb52e300cac29d960dce2bc0b3dfe1b8"
+    },
     "com.unity.addressables": {
       "version": "2.5.0",
       "depth": 1,
